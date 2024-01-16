@@ -12,5 +12,5 @@ def sepia(input_img):
     return sepia_img
 
 demo = gr.Interface(sepia, gr.Image(), "image")
-print('it's okkkkkkk')
+print('okkkkkkk')
 demo.launch()
